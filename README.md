@@ -5,3 +5,9 @@ This project is about building a web application to show a weather forecast usin
 ## Getting Started
 
 This project was built using VS Code, HTML , CSS , API KEY using https://openweathermap.org/ . It is a web application and for running on your local environment 
+
+## *WEBSITE DEMO*
+(![Screenshot 2025-04-16 172512](https://github.com/user-attachments/assets/8aef4445-4270-4be6-8237-dccb85987ff7))
+
+
+
